@@ -1,4 +1,16 @@
+
+
+
+
 Python code to calculate bivariate Hermite polynomials.
+
+Paul Teal - pault@nmr.nz
+
+Thursday 7 November, 2024
+
+Monday 2 December, 2024
+
+Tuesday 7 January 2025
 
 The input to the functions here are $V^{11},V^{12},V^{22}$ and $y_1,y_2$ - not $V_{11},V_{12},V_{22}$ and $x_1,x_2$.
 
