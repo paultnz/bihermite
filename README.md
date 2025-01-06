@@ -1,7 +1,6 @@
 Python code to calculate bivariate Hermite polynomials.
 
-The input to the functions here are $V^{11},V^{12},V^{22}$ and $y_1,y_2$
-- not $V_{11},V_{12},V_{22}$ and $x_1,x_2$.
+The input to the functions here are $V^{11},V^{12},V^{22}$ and $y_1,y_2$ - not $V_{11},V_{12},V_{22}$ and $x_1,x_2$.
 
 Function sub2(sb1,sb2) takes as argument the two subscripts of
 moment mu_ab, and returns the value. If global variables mu20, mu02,
